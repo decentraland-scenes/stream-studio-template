@@ -2,8 +2,8 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "New Scenebbx",
-    "description": "Empty Scene Template",
+    "title": "Live Stream Studio",
+    "description": "A ready-to-use template for streamers to record smooth and stylish content inside Decentraland.",
     "favicon": "favicon_asset",
     "navmapThumbnail": ""
   },
@@ -56,10 +56,12 @@
     "voiceChat": "enabled",
     "portableExperiences": "enabled"
   },
-  "skyboxConfig": {},
+  "skyboxConfig": {
+    "fixedTime": 43200
+  },
   "source": {
     "origin": "creator-hub",
-    "projectId": "71c41089-001c-4670-a52c-3f4a8f910f2b"
+    "projectId": "77d0dc21-d6b5-48b6-aff4-9fa761b335f0"
   },
   "rating": "T"
 }
