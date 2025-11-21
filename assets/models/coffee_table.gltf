@@ -128,35 +128,35 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":238,
+			"count":182,
 			"max":[
 				0.7321444153785706,
 				0.4817183315753937,
-				0.5846001505851746
+				0.4103274941444397
 			],
 			"min":[
 				-0.7321444153785706,
 				0.014713078737258911,
-				-0.5846001505851746
+				-0.4103274941444397
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":238,
+			"count":182,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":238,
+			"count":182,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
 			"componentType":5123,
-			"count":660,
+			"count":492,
 			"type":"SCALAR"
 		},
 		{
@@ -166,12 +166,12 @@
 			"max":[
 				0.7053795456886292,
 				0.45495352149009705,
-				0.5973124504089355
+				0.4192501902580261
 			],
 			"min":[
 				-0.7053795456886292,
 				0.041478320956230164,
-				-0.5973124504089355
+				-0.4192501902580261
 			],
 			"type":"VEC3"
 		},
@@ -200,12 +200,12 @@
 			"max":[
 				0.7385094165802002,
 				0.48811793327331543,
-				0.6060323119163513
+				0.42537060379981995
 			],
 			"min":[
 				-0.7385094165802002,
 				0,
-				-0.6060323119163513
+				-0.42537060379981995
 			],
 			"type":"VEC3"
 		},
@@ -231,74 +231,74 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":2856,
+			"byteLength":2184,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":2856,
-			"byteOffset":2856,
+			"byteLength":2184,
+			"byteOffset":2184,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":1904,
-			"byteOffset":5712,
+			"byteLength":1456,
+			"byteOffset":4368,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":1320,
-			"byteOffset":7616,
+			"byteLength":984,
+			"byteOffset":5824,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":1440,
-			"byteOffset":8936,
+			"byteOffset":6808,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":1440,
-			"byteOffset":10376,
+			"byteOffset":8248,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":960,
-			"byteOffset":11816,
+			"byteOffset":9688,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":648,
-			"byteOffset":12776,
+			"byteOffset":10648,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":288,
-			"byteOffset":13424,
+			"byteOffset":11296,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":288,
-			"byteOffset":13712,
+			"byteOffset":11584,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":192,
-			"byteOffset":14000,
+			"byteOffset":11872,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":72,
-			"byteOffset":14192,
+			"byteOffset":12064,
 			"target":34963
 		}
 	],
@@ -310,7 +310,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":14264,
+			"byteLength":12136,
 			"uri":"coffee_table.bin"
 		}
 	]

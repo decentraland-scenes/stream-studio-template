@@ -3,9 +3,6 @@
 		"generator":"Khronos glTF Blender I/O v4.4.56",
 		"version":"2.0"
 	},
-	"extensionsUsed":[
-		"KHR_materials_emissive_strength"
-	],
 	"scene":0,
 	"scenes":[
 		{
@@ -65,7 +62,7 @@
 				"baseColorTexture":{
 					"index":0
 				},
-				"roughnessFactor":0.25
+				"roughnessFactor":0.20000000298023224
 			}
 		},
 		{
@@ -105,11 +102,6 @@
 			],
 			"emissiveTexture":{
 				"index":4
-			},
-			"extensions":{
-				"KHR_materials_emissive_strength":{
-					"emissiveStrength":3
-				}
 			},
 			"name":"Template_Palette_Emission",
 			"pbrMetallicRoughness":{

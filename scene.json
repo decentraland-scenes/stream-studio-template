@@ -2,10 +2,10 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "Live Stream Studio v2.0",
-    "description": "A ready-to-use template for streamers to record smooth and stylish content inside Decentraland.",
+    "title": "Streaming Template v3.0",
+    "description": "Empty Scene Template",
     "favicon": "favicon_asset",
-    "navmapThumbnail": ""
+    "navmapThumbnail": "assets/images/thumbnail.png"
   },
   "owner": "",
   "contact": {
@@ -13,7 +13,11 @@
     "email": ""
   },
   "main": "bin/index.js",
-  "tags": [],
+  "tags": [
+    "art",
+    "social",
+    "music"
+  ],
   "scene": {
     "base": "-15,-66",
     "parcels": [
@@ -29,16 +33,16 @@
       "default": true,
       "position": {
         "x": [
-          11,
-          14
+          14,
+          17
         ],
         "y": [
-          3,
-          3
+          1,
+          1
         ],
         "z": [
-          11,
-          14
+          0,
+          2
         ]
       },
       "cameraTarget": {
@@ -61,7 +65,7 @@
   },
   "source": {
     "origin": "creator-hub",
-    "projectId": "2c77b7ef-62e3-4b50-bdc2-2421ec057582"
+    "projectId": "71c41089-001c-4670-a52c-3f4a8f910f2b"
   },
   "rating": "T"
 }
