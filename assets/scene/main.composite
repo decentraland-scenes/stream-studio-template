@@ -284,18 +284,18 @@
             "position": {
               "x": 24.8700008392334,
               "y": 1.590000033378601,
-              "z": 12.949999809265137
-            },
-            "scale": {
-              "x": 1.0999608039855957,
-              "y": 1.100000023841858,
-              "z": 1.0999608039855957
+              "z": 13.949999809265137
             },
             "rotation": {
               "x": 0,
               "y": -0.536592960357666,
               "z": 0,
               "w": 0.8438412547111511
+            },
+            "scale": {
+              "x": 1.0999608039855957,
+              "y": 1.100000023841858,
+              "z": 1.0999608039855957
             },
             "parent": 553
           }
@@ -445,6 +445,48 @@
               "w": 1
             },
             "parent": 0
+          }
+        },
+        "537": {
+          "json": {
+            "position": {
+              "x": 24.8700008392334,
+              "y": 1.590000033378601,
+              "z": 10.199999809265137
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.5742624402046204,
+              "z": 0,
+              "w": 0.8186713457107544
+            },
+            "scale": {
+              "x": 1.0999608039855957,
+              "y": 1.100000023841858,
+              "z": 1.0999608039855957
+            },
+            "parent": 553
+          }
+        },
+        "538": {
+          "json": {
+            "position": {
+              "x": -0.33000001311302185,
+              "y": 0.14000000059604645,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 548
           }
         },
         "539": {
@@ -615,6 +657,27 @@
             "parent": 549
           }
         },
+        "548": {
+          "json": {
+            "position": {
+              "x": 19.75,
+              "y": 0.75,
+              "z": 10.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
         "549": {
           "json": {
             "position": {
@@ -783,6 +846,321 @@
             "parent": 0
           }
         },
+        "557": {
+          "json": {
+            "position": {
+              "x": -0.33000001311302185,
+              "y": 0.14000000059604645,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 558
+          }
+        },
+        "558": {
+          "json": {
+            "position": {
+              "x": 17.75,
+              "y": 0.75,
+              "z": 11.75
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
+        "559": {
+          "json": {
+            "position": {
+              "x": -0.33000001311302185,
+              "y": 0.14000000059604645,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 560
+          }
+        },
+        "560": {
+          "json": {
+            "position": {
+              "x": 17.75,
+              "y": 0.75,
+              "z": 13.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
+        "561": {
+          "json": {
+            "position": {
+              "x": -0.33000001311302185,
+              "y": 0.14000000059604645,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 562
+          }
+        },
+        "562": {
+          "json": {
+            "position": {
+              "x": 19.75,
+              "y": 0.75,
+              "z": 13.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
+        "563": {
+          "json": {
+            "position": {
+              "x": -0.33000001311302185,
+              "y": 0.14000000059604645,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 564
+          }
+        },
+        "564": {
+          "json": {
+            "position": {
+              "x": 19.75,
+              "y": 0.75,
+              "z": 11.75
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
+        "565": {
+          "json": {
+            "position": {
+              "x": -0.33000001311302185,
+              "y": 0.14000000059604645,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 566
+          }
+        },
+        "566": {
+          "json": {
+            "position": {
+              "x": 17.75,
+              "y": 0.75,
+              "z": 10.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
+        "567": {
+          "json": {
+            "position": {
+              "x": 17.75,
+              "y": 9.25,
+              "z": 13.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "571": {
+          "json": {
+            "position": {
+              "x": 15.25,
+              "y": 9.25,
+              "z": 16.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "573": {
+          "json": {
+            "position": {
+              "x": 10.5,
+              "y": 9.25,
+              "z": 10
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "574": {
+          "json": {
+            "position": {
+              "x": 13,
+              "y": 9.25,
+              "z": 16.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "575": {
+          "json": {
+            "position": {
+              "x": 13,
+              "y": 9.25,
+              "z": 7.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
         "576": {
           "json": {
             "position": {
@@ -802,6 +1180,237 @@
               "w": -0.707099974155426
             },
             "parent": 556
+          }
+        },
+        "577": {
+          "json": {
+            "position": {
+              "x": 10.5,
+              "y": 9.25,
+              "z": 7.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "578": {
+          "json": {
+            "position": {
+              "x": 15.25,
+              "y": 9.25,
+              "z": 7.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "579": {
+          "json": {
+            "position": {
+              "x": 17.75,
+              "y": 9.25,
+              "z": 7.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "580": {
+          "json": {
+            "position": {
+              "x": 17.75,
+              "y": 9.25,
+              "z": 10
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "581": {
+          "json": {
+            "position": {
+              "x": 15.25,
+              "y": 9.25,
+              "z": 10
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "582": {
+          "json": {
+            "position": {
+              "x": 13,
+              "y": 9.25,
+              "z": 10
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "583": {
+          "json": {
+            "position": {
+              "x": 10.5,
+              "y": 9.25,
+              "z": 16.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "584": {
+          "json": {
+            "position": {
+              "x": 10.5,
+              "y": 9.25,
+              "z": 13.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "585": {
+          "json": {
+            "position": {
+              "x": 13,
+              "y": 9.25,
+              "z": 13.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "586": {
+          "json": {
+            "position": {
+              "x": 15.25,
+              "y": 9.25,
+              "z": 13.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
+          }
+        },
+        "587": {
+          "json": {
+            "position": {
+              "x": 17.75,
+              "y": 9.25,
+              "z": 16.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 0.699999988079071,
+              "y": 0.699999988079071,
+              "z": 0.699999988079071
+            },
+            "parent": 0
           }
         },
         "599": {
@@ -1381,10 +1990,46 @@
             "entityId": 8004
           }
         },
+        "538": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8008
+          }
+        },
         "550": {
           "json": {
             "networkId": 0,
             "entityId": 8005
+          }
+        },
+        "557": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8009
+          }
+        },
+        "559": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8010
+          }
+        },
+        "561": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8011
+          }
+        },
+        "563": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8012
+          }
+        },
+        "565": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8013
           }
         },
         "576": {
@@ -1417,6 +2062,20 @@
       },
       "data": {
         "529": {
+          "json": {
+            "states": [
+              {
+                "clip": "Mic",
+                "playing": true,
+                "weight": 1,
+                "speed": 1,
+                "loop": true,
+                "shouldReset": false
+              }
+            ]
+          }
+        },
+        "537": {
           "json": {
             "states": [
               {
@@ -1532,6 +2191,13 @@
             "invisibleMeshesCollisionMask": 3
           }
         },
+        "537": {
+          "json": {
+            "src": "assets/models/mic.gltf",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
         "542": {
           "json": {
             "src": "assets/models/armchair.gltf",
@@ -1574,6 +2240,13 @@
             "invisibleMeshesCollisionMask": 3
           }
         },
+        "548": {
+          "json": {
+            "src": "assets/asset-packs/black_chair/HighBackChair.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
         "549": {
           "json": {
             "src": "assets/models/photowall.gltf",
@@ -1598,6 +2271,41 @@
         "552": {
           "json": {
             "src": "assets/models/photowall_light.gltf",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "558": {
+          "json": {
+            "src": "assets/asset-packs/black_chair/HighBackChair.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "560": {
+          "json": {
+            "src": "assets/asset-packs/black_chair/HighBackChair.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "562": {
+          "json": {
+            "src": "assets/asset-packs/black_chair/HighBackChair.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "564": {
+          "json": {
+            "src": "assets/asset-packs/black_chair/HighBackChair.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "566": {
+          "json": {
+            "src": "assets/asset-packs/black_chair/HighBackChair.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -2216,6 +2924,451 @@
             }
           }
         },
+        "567": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "571": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "573": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "574": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "575": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
         "576": {
           "json": {
             "material": {
@@ -2251,6 +3404,985 @@
                     }
                   }
                 }
+              }
+            }
+          }
+        },
+        "577": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "578": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "579": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "580": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "581": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "582": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "583": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "584": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "585": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "586": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "587": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.5,
+                "specularIntensity": 1,
+                "emissiveIntensity": 1,
+                "directIntensity": 1
               }
             }
           }
@@ -2311,12 +4443,156 @@
             }
           }
         },
+        "567": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "571": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "573": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "574": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "575": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
         "576": {
           "json": {
             "collisionMask": 1,
             "mesh": {
               "$case": "plane",
               "plane": {}
+            }
+          }
+        },
+        "577": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "578": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "579": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "580": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "581": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "582": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "583": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "584": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "585": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "586": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "587": {
+          "json": {
+            "collisionMask": 3,
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
             }
           }
         }
@@ -2381,6 +4657,46 @@
             }
           }
         },
+        "567": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "571": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "573": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "574": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "575": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
         "576": {
           "json": {
             "mesh": {
@@ -2388,6 +4704,94 @@
               "plane": {
                 "uvs": []
               }
+            }
+          }
+        },
+        "577": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "578": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "579": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "580": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "581": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "582": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "583": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "584": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "585": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "586": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
+            }
+          }
+        },
+        "587": {
+          "json": {
+            "mesh": {
+              "$case": "sphere",
+              "sphere": {}
             }
           }
         }
@@ -2491,6 +4895,16 @@
             "value": "Armchairs_Upstairs"
           }
         },
+        "537": {
+          "json": {
+            "value": "mic.gltf_2"
+          }
+        },
+        "538": {
+          "json": {
+            "value": "Sit Spot"
+          }
+        },
         "539": {
           "json": {
             "value": "Image_1"
@@ -2529,6 +4943,11 @@
         "547": {
           "json": {
             "value": "Photowall_Light_02"
+          }
+        },
+        "548": {
+          "json": {
+            "value": "Black Chair"
           }
         },
         "549": {
@@ -2571,9 +4990,139 @@
             "value": "VideoScreen & Images"
           }
         },
+        "557": {
+          "json": {
+            "value": "Sit Spot_2"
+          }
+        },
+        "558": {
+          "json": {
+            "value": "Black Chair_2"
+          }
+        },
+        "559": {
+          "json": {
+            "value": "Sit Spot_2_3"
+          }
+        },
+        "560": {
+          "json": {
+            "value": "Black Chair_2_3"
+          }
+        },
+        "561": {
+          "json": {
+            "value": "Sit Spot_2_3_4"
+          }
+        },
+        "562": {
+          "json": {
+            "value": "Black Chair_2_3_4"
+          }
+        },
+        "563": {
+          "json": {
+            "value": "Sit Spot_2_4"
+          }
+        },
+        "564": {
+          "json": {
+            "value": "Black Chair_2_4"
+          }
+        },
+        "565": {
+          "json": {
+            "value": "Sit Spot_3"
+          }
+        },
+        "566": {
+          "json": {
+            "value": "Black Chair_3"
+          }
+        },
+        "567": {
+          "json": {
+            "value": "Sphere"
+          }
+        },
+        "571": {
+          "json": {
+            "value": "Sphere_2"
+          }
+        },
+        "573": {
+          "json": {
+            "value": "Sphere_2_3_4"
+          }
+        },
+        "574": {
+          "json": {
+            "value": "Sphere_2_3_5"
+          }
+        },
+        "575": {
+          "json": {
+            "value": "Sphere_2_3_5_6"
+          }
+        },
         "576": {
           "json": {
             "value": "Video Screen"
+          }
+        },
+        "577": {
+          "json": {
+            "value": "Sphere_2_3_4_5"
+          }
+        },
+        "578": {
+          "json": {
+            "value": "Sphere_2_4"
+          }
+        },
+        "579": {
+          "json": {
+            "value": "Sphere_3"
+          }
+        },
+        "580": {
+          "json": {
+            "value": "Sphere_4"
+          }
+        },
+        "581": {
+          "json": {
+            "value": "Sphere_2_5"
+          }
+        },
+        "582": {
+          "json": {
+            "value": "Sphere_2_3_5_7"
+          }
+        },
+        "583": {
+          "json": {
+            "value": "Sphere_2_3_4_6"
+          }
+        },
+        "584": {
+          "json": {
+            "value": "Sphere_2_3_4_6_7"
+          }
+        },
+        "585": {
+          "json": {
+            "value": "Sphere_2_3_5_8"
+          }
+        },
+        "586": {
+          "json": {
+            "value": "Sphere_2_6"
+          }
+        },
+        "587": {
+          "json": {
+            "value": "Sphere_5"
           }
         },
         "599": {
@@ -2709,6 +5258,113 @@
       }
     },
     {
+      "name": "core::PointerEvents",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBPointerEvents"
+      },
+      "data": {
+        "548": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 1,
+                  "hoverText": "Sit Here",
+                  "maxDistance": 10,
+                  "showFeedback": true,
+                  "showHighlight": true
+                }
+              }
+            ]
+          }
+        },
+        "558": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 1,
+                  "hoverText": "Sit Here",
+                  "maxDistance": 10,
+                  "showFeedback": true,
+                  "showHighlight": true
+                }
+              }
+            ]
+          }
+        },
+        "560": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 1,
+                  "hoverText": "Sit Here",
+                  "maxDistance": 10,
+                  "showFeedback": true,
+                  "showHighlight": true
+                }
+              }
+            ]
+          }
+        },
+        "562": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 1,
+                  "hoverText": "Sit Here",
+                  "maxDistance": 10,
+                  "showFeedback": true,
+                  "showHighlight": true
+                }
+              }
+            ]
+          }
+        },
+        "564": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 1,
+                  "hoverText": "Sit Here",
+                  "maxDistance": 10,
+                  "showFeedback": true,
+                  "showHighlight": true
+                }
+              }
+            ]
+          }
+        },
+        "566": {
+          "json": {
+            "pointerEvents": [
+              {
+                "eventType": 1,
+                "eventInfo": {
+                  "button": 1,
+                  "hoverText": "Sit Here",
+                  "maxDistance": 10,
+                  "showFeedback": true,
+                  "showHighlight": true
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
       "name": "core-schema::Sync-Components",
       "jsonSchema": {
         "type": "object",
@@ -2742,10 +5398,52 @@
             ]
           }
         },
+        "538": {
+          "json": {
+            "componentIds": [
+              2709697014
+            ]
+          }
+        },
         "550": {
           "json": {
             "componentIds": [
               99929642
+            ]
+          }
+        },
+        "557": {
+          "json": {
+            "componentIds": [
+              2709697014
+            ]
+          }
+        },
+        "559": {
+          "json": {
+            "componentIds": [
+              2709697014
+            ]
+          }
+        },
+        "561": {
+          "json": {
+            "componentIds": [
+              2709697014
+            ]
+          }
+        },
+        "563": {
+          "json": {
+            "componentIds": [
+              2709697014
+            ]
+          }
+        },
+        "565": {
+          "json": {
+            "componentIds": [
+              2709697014
             ]
           }
         },
@@ -2926,7 +5624,22 @@
         "serializationType": "map"
       },
       "data": {
-        "0": {
+        "573": {
+          "json": {
+            "gizmo": 0
+          }
+        },
+        "580": {
+          "json": {
+            "gizmo": 1
+          }
+        },
+        "581": {
+          "json": {
+            "gizmo": 0
+          }
+        },
+        "582": {
           "json": {
             "gizmo": 0
           }
@@ -3261,17 +5974,13 @@
           "json": {
             "name": "Live Stream Studio v2.0",
             "description": "A ready-to-use template for streamers to record smooth and stylish content inside Decentraland.",
+            "thumbnail": "",
             "ageRating": "T",
             "categories": [],
             "author": "SDK",
-            "tags": [
-              ""
-            ],
+            "email": "",
+            "tags": [],
             "layout": {
-              "base": {
-                "x": -15,
-                "y": -66
-              },
               "parcels": [
                 {
                   "x": -15,
@@ -3289,8 +5998,14 @@
                   "x": -14,
                   "y": -66
                 }
-              ]
+              ],
+              "base": {
+                "x": -15,
+                "y": -66
+              }
             },
+            "silenceVoiceChat": false,
+            "disablePortableExperiences": false,
             "skyboxConfig": {
               "fixedTime": 43200
             },
@@ -3388,7 +6103,29 @@
                   536,
                   518,
                   528,
-                  550
+                  550,
+                  548,
+                  558,
+                  560,
+                  562,
+                  564,
+                  566,
+                  567,
+                  571,
+                  573,
+                  574,
+                  575,
+                  577,
+                  578,
+                  579,
+                  580,
+                  581,
+                  582,
+                  583,
+                  584,
+                  585,
+                  586,
+                  587
                 ]
               },
               {
@@ -3673,13 +6410,15 @@
               },
               {
                 "entity": 553,
+                "open": true,
                 "children": [
                   551,
                   532,
                   535,
                   533,
                   552,
-                  529
+                  529,
+                  537
                 ]
               },
               {
@@ -3702,6 +6441,134 @@
               },
               {
                 "entity": 529,
+                "children": []
+              },
+              {
+                "entity": 537,
+                "children": []
+              },
+              {
+                "entity": 538,
+                "children": []
+              },
+              {
+                "entity": 548,
+                "children": [
+                  538
+                ]
+              },
+              {
+                "entity": 558,
+                "children": [
+                  557
+                ]
+              },
+              {
+                "entity": 557,
+                "children": []
+              },
+              {
+                "entity": 560,
+                "children": [
+                  559
+                ]
+              },
+              {
+                "entity": 559,
+                "children": []
+              },
+              {
+                "entity": 562,
+                "children": [
+                  561
+                ]
+              },
+              {
+                "entity": 561,
+                "children": []
+              },
+              {
+                "entity": 564,
+                "children": [
+                  563
+                ]
+              },
+              {
+                "entity": 563,
+                "children": []
+              },
+              {
+                "entity": 566,
+                "children": [
+                  565
+                ]
+              },
+              {
+                "entity": 565,
+                "children": []
+              },
+              {
+                "entity": 567,
+                "children": []
+              },
+              {
+                "entity": 571,
+                "children": []
+              },
+              {
+                "entity": 573,
+                "children": []
+              },
+              {
+                "entity": 574,
+                "children": []
+              },
+              {
+                "entity": 575,
+                "children": []
+              },
+              {
+                "entity": 577,
+                "children": []
+              },
+              {
+                "entity": 578,
+                "children": []
+              },
+              {
+                "entity": 579,
+                "children": []
+              },
+              {
+                "entity": 580,
+                "children": []
+              },
+              {
+                "entity": 581,
+                "children": []
+              },
+              {
+                "entity": 582,
+                "children": []
+              },
+              {
+                "entity": 583,
+                "children": []
+              },
+              {
+                "entity": 584,
+                "children": []
+              },
+              {
+                "entity": 585,
+                "children": []
+              },
+              {
+                "entity": 586,
+                "children": []
+              },
+              {
+                "entity": 587,
                 "children": []
               }
             ]
@@ -3987,6 +6854,360 @@
         "serializationType": "map"
       },
       "data": {
+        "538": {
+          "json": {
+            "id": 8,
+            "value": [
+              {
+                "name": "Move here",
+                "type": "move_player_here",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Sit anim1",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair1\"}"
+              },
+              {
+                "name": "Mark as taken",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Taken\"}"
+              },
+              {
+                "name": "Mark as free",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Free\"}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit Here",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Move here\",\"Mark as taken\",\"Random sit anim\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit anim2",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair2\"}"
+              },
+              {
+                "name": "Random sit anim",
+                "type": "random",
+                "jsonPayload": "{\"actions\":[\"Sit anim1\",\"Sit anim2\"]}"
+              },
+              {
+                "name": "Print text",
+                "type": "show_text",
+                "jsonPayload": "{\"text\":\"Seat is taken\",\"hideAfterSeconds\":2,\"font\":0,\"fontSize\":40,\"textAlign\":7}"
+              },
+              {
+                "name": "Hide text",
+                "type": "hide_text",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Show text",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Hide text\",\"Print text\"]}"
+              }
+            ]
+          }
+        },
+        "557": {
+          "json": {
+            "id": 10,
+            "value": [
+              {
+                "name": "Move here",
+                "type": "move_player_here",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Sit anim1",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair1\"}"
+              },
+              {
+                "name": "Mark as taken",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Taken\"}"
+              },
+              {
+                "name": "Mark as free",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Free\"}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit Here",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Move here\",\"Mark as taken\",\"Random sit anim\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit anim2",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair2\"}"
+              },
+              {
+                "name": "Random sit anim",
+                "type": "random",
+                "jsonPayload": "{\"actions\":[\"Sit anim1\",\"Sit anim2\"]}"
+              },
+              {
+                "name": "Print text",
+                "type": "show_text",
+                "jsonPayload": "{\"text\":\"Seat is taken\",\"hideAfterSeconds\":2,\"font\":0,\"fontSize\":40,\"textAlign\":7}"
+              },
+              {
+                "name": "Hide text",
+                "type": "hide_text",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Show text",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Hide text\",\"Print text\"]}"
+              }
+            ]
+          }
+        },
+        "559": {
+          "json": {
+            "id": 12,
+            "value": [
+              {
+                "name": "Move here",
+                "type": "move_player_here",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Sit anim1",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair1\"}"
+              },
+              {
+                "name": "Mark as taken",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Taken\"}"
+              },
+              {
+                "name": "Mark as free",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Free\"}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit Here",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Move here\",\"Mark as taken\",\"Random sit anim\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit anim2",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair2\"}"
+              },
+              {
+                "name": "Random sit anim",
+                "type": "random",
+                "jsonPayload": "{\"actions\":[\"Sit anim1\",\"Sit anim2\"]}"
+              },
+              {
+                "name": "Print text",
+                "type": "show_text",
+                "jsonPayload": "{\"text\":\"Seat is taken\",\"hideAfterSeconds\":2,\"font\":0,\"fontSize\":40,\"textAlign\":7}"
+              },
+              {
+                "name": "Hide text",
+                "type": "hide_text",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Show text",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Hide text\",\"Print text\"]}"
+              }
+            ]
+          }
+        },
+        "561": {
+          "json": {
+            "id": 14,
+            "value": [
+              {
+                "name": "Move here",
+                "type": "move_player_here",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Sit anim1",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair1\"}"
+              },
+              {
+                "name": "Mark as taken",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Taken\"}"
+              },
+              {
+                "name": "Mark as free",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Free\"}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit Here",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Move here\",\"Mark as taken\",\"Random sit anim\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit anim2",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair2\"}"
+              },
+              {
+                "name": "Random sit anim",
+                "type": "random",
+                "jsonPayload": "{\"actions\":[\"Sit anim1\",\"Sit anim2\"]}"
+              },
+              {
+                "name": "Print text",
+                "type": "show_text",
+                "jsonPayload": "{\"text\":\"Seat is taken\",\"hideAfterSeconds\":2,\"font\":0,\"fontSize\":40,\"textAlign\":7}"
+              },
+              {
+                "name": "Hide text",
+                "type": "hide_text",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Show text",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Hide text\",\"Print text\"]}"
+              }
+            ]
+          }
+        },
+        "563": {
+          "json": {
+            "id": 16,
+            "value": [
+              {
+                "name": "Move here",
+                "type": "move_player_here",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Sit anim1",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair1\"}"
+              },
+              {
+                "name": "Mark as taken",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Taken\"}"
+              },
+              {
+                "name": "Mark as free",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Free\"}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit Here",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Move here\",\"Mark as taken\",\"Random sit anim\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit anim2",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair2\"}"
+              },
+              {
+                "name": "Random sit anim",
+                "type": "random",
+                "jsonPayload": "{\"actions\":[\"Sit anim1\",\"Sit anim2\"]}"
+              },
+              {
+                "name": "Print text",
+                "type": "show_text",
+                "jsonPayload": "{\"text\":\"Seat is taken\",\"hideAfterSeconds\":2,\"font\":0,\"fontSize\":40,\"textAlign\":7}"
+              },
+              {
+                "name": "Hide text",
+                "type": "hide_text",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Show text",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Hide text\",\"Print text\"]}"
+              }
+            ]
+          }
+        },
+        "565": {
+          "json": {
+            "id": 18,
+            "value": [
+              {
+                "name": "Move here",
+                "type": "move_player_here",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Sit anim1",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair1\"}"
+              },
+              {
+                "name": "Mark as taken",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Taken\"}"
+              },
+              {
+                "name": "Mark as free",
+                "type": "set_state",
+                "jsonPayload": "{\"state\":\"Free\"}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit Here",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Move here\",\"Mark as taken\",\"Random sit anim\"]}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Sit anim2",
+                "type": "play_default_emote",
+                "jsonPayload": "{\"emote\":\"sittingChair2\"}"
+              },
+              {
+                "name": "Random sit anim",
+                "type": "random",
+                "jsonPayload": "{\"actions\":[\"Sit anim1\",\"Sit anim2\"]}"
+              },
+              {
+                "name": "Print text",
+                "type": "show_text",
+                "jsonPayload": "{\"text\":\"Seat is taken\",\"hideAfterSeconds\":2,\"font\":0,\"fontSize\":40,\"textAlign\":7}"
+              },
+              {
+                "name": "Hide text",
+                "type": "hide_text",
+                "jsonPayload": "{}"
+              },
+              {
+                "name": "Show text",
+                "type": "batch",
+                "jsonPayload": "{\"actions\":[\"Hide text\",\"Print text\"]}"
+              }
+            ]
+          }
+        },
         "666": {
           "json": {
             "id": 1,
@@ -4043,7 +7264,7 @@
         "0": {
           "json": {
             "id": 0,
-            "value": 7
+            "value": 19
           }
         }
       }
@@ -4218,6 +7439,384 @@
         "serializationType": "map"
       },
       "data": {
+        "538": {
+          "json": {
+            "value": [
+              {
+                "type": "on_player_leaves_area",
+                "conditions": [
+                  {
+                    "id": 9,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 8,
+                    "name": "Mark as free"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "548": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 9,
+                    "type": "when_state_is",
+                    "value": "Free"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 8,
+                    "name": "Sit Here"
+                  }
+                ]
+              },
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 9,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 8,
+                    "name": "Show text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "557": {
+          "json": {
+            "value": [
+              {
+                "type": "on_player_leaves_area",
+                "conditions": [
+                  {
+                    "id": 11,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 10,
+                    "name": "Mark as free"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "558": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 11,
+                    "type": "when_state_is",
+                    "value": "Free"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 10,
+                    "name": "Sit Here"
+                  }
+                ]
+              },
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 11,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 10,
+                    "name": "Show text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "559": {
+          "json": {
+            "value": [
+              {
+                "type": "on_player_leaves_area",
+                "conditions": [
+                  {
+                    "id": 13,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 12,
+                    "name": "Mark as free"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "560": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 13,
+                    "type": "when_state_is",
+                    "value": "Free"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 12,
+                    "name": "Sit Here"
+                  }
+                ]
+              },
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 13,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 12,
+                    "name": "Show text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "561": {
+          "json": {
+            "value": [
+              {
+                "type": "on_player_leaves_area",
+                "conditions": [
+                  {
+                    "id": 15,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 14,
+                    "name": "Mark as free"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "562": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 15,
+                    "type": "when_state_is",
+                    "value": "Free"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 14,
+                    "name": "Sit Here"
+                  }
+                ]
+              },
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 15,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 14,
+                    "name": "Show text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "563": {
+          "json": {
+            "value": [
+              {
+                "type": "on_player_leaves_area",
+                "conditions": [
+                  {
+                    "id": 17,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 16,
+                    "name": "Mark as free"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "564": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 17,
+                    "type": "when_state_is",
+                    "value": "Free"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 16,
+                    "name": "Sit Here"
+                  }
+                ]
+              },
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 17,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 16,
+                    "name": "Show text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "565": {
+          "json": {
+            "value": [
+              {
+                "type": "on_player_leaves_area",
+                "conditions": [
+                  {
+                    "id": 19,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 18,
+                    "name": "Mark as free"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "566": {
+          "json": {
+            "value": [
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 19,
+                    "type": "when_state_is",
+                    "value": "Free"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 18,
+                    "name": "Sit Here"
+                  }
+                ]
+              },
+              {
+                "type": "on_input_action",
+                "conditions": [
+                  {
+                    "id": 19,
+                    "type": "when_state_is",
+                    "value": "Taken"
+                  }
+                ],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 18,
+                    "name": "Show text"
+                  }
+                ]
+              }
+            ]
+          }
+        },
         "668": {
           "json": {
             "value": [
@@ -4268,6 +7867,113 @@
                 "actions": []
               }
             ]
+          }
+        }
+      }
+    },
+    {
+      "name": "asset-packs::States",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "number",
+            "serializationType": "float32"
+          },
+          "value": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "serializationType": "utf8-string"
+            },
+            "serializationType": "array"
+          },
+          "defaultValue": {
+            "type": "string",
+            "serializationType": "optional",
+            "optionalJsonSchema": {
+              "type": "string",
+              "serializationType": "utf8-string"
+            }
+          },
+          "currentValue": {
+            "type": "string",
+            "serializationType": "optional",
+            "optionalJsonSchema": {
+              "type": "string",
+              "serializationType": "utf8-string"
+            }
+          },
+          "previousValue": {
+            "type": "string",
+            "serializationType": "optional",
+            "optionalJsonSchema": {
+              "type": "string",
+              "serializationType": "utf8-string"
+            }
+          }
+        },
+        "serializationType": "map"
+      },
+      "data": {
+        "538": {
+          "json": {
+            "id": 9,
+            "value": [
+              "Free",
+              "Taken"
+            ],
+            "defaultValue": "Free"
+          }
+        },
+        "557": {
+          "json": {
+            "id": 11,
+            "value": [
+              "Free",
+              "Taken"
+            ],
+            "defaultValue": "Free"
+          }
+        },
+        "559": {
+          "json": {
+            "id": 13,
+            "value": [
+              "Free",
+              "Taken"
+            ],
+            "defaultValue": "Free"
+          }
+        },
+        "561": {
+          "json": {
+            "id": 15,
+            "value": [
+              "Free",
+              "Taken"
+            ],
+            "defaultValue": "Free"
+          }
+        },
+        "563": {
+          "json": {
+            "id": 17,
+            "value": [
+              "Free",
+              "Taken"
+            ],
+            "defaultValue": "Free"
+          }
+        },
+        "565": {
+          "json": {
+            "id": 19,
+            "value": [
+              "Free",
+              "Taken"
+            ],
+            "defaultValue": "Free"
           }
         }
       }
@@ -4667,6 +8373,9 @@
         "536": {
           "json": {}
         },
+        "537": {
+          "json": {}
+        },
         "539": {
           "json": {}
         },
@@ -4694,6 +8403,9 @@
         "547": {
           "json": {}
         },
+        "548": {
+          "json": {}
+        },
         "549": {
           "json": {}
         },
@@ -4718,7 +8430,70 @@
         "556": {
           "json": {}
         },
+        "558": {
+          "json": {}
+        },
+        "560": {
+          "json": {}
+        },
+        "562": {
+          "json": {}
+        },
+        "564": {
+          "json": {}
+        },
+        "566": {
+          "json": {}
+        },
+        "567": {
+          "json": {}
+        },
+        "571": {
+          "json": {}
+        },
+        "573": {
+          "json": {}
+        },
+        "574": {
+          "json": {}
+        },
+        "575": {
+          "json": {}
+        },
         "576": {
+          "json": {}
+        },
+        "577": {
+          "json": {}
+        },
+        "578": {
+          "json": {}
+        },
+        "579": {
+          "json": {}
+        },
+        "580": {
+          "json": {}
+        },
+        "581": {
+          "json": {}
+        },
+        "582": {
+          "json": {}
+        },
+        "583": {
+          "json": {}
+        },
+        "584": {
+          "json": {}
+        },
+        "585": {
+          "json": {}
+        },
+        "586": {
+          "json": {}
+        },
+        "587": {
           "json": {}
         },
         "599": {
@@ -5487,6 +9262,14 @@
             "version": 2
           }
         },
+        "538": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Sit Spot",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
         "539": {
           "json": {
             "isBasicViewEnabled": true,
@@ -5539,6 +9322,14 @@
               "text": "Upload a .png or .jpg image file, or paste a URL to use as a texture on this item."
             },
             "version": 2
+          }
+        },
+        "548": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Chair",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
           }
         },
         "550": {
@@ -5606,6 +9397,86 @@
               "text": "Upload a .png or .jpg image file, or paste a URL to use as a texture on this item."
             },
             "version": 2
+          }
+        },
+        "557": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Sit Spot",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
+        "558": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Chair",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
+        "559": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Sit Spot",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
+        "560": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Chair",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
+        "561": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Sit Spot",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
+        "562": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Chair",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
+        "563": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Sit Spot",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
+        "564": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Chair",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
+        "565": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Sit Spot",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
+          }
+        },
+        "566": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "Chair",
+            "fields": [],
+            "assetId": "51c9fa4a-4317-4be5-a6e2-21643b793414"
           }
         },
         "576": {
