@@ -56,7 +56,6 @@ export enum EntityNames {
   Planted_Fern_1 = "Planted Fern_1",
   Planted_Fern_2 = "Planted Fern_2",
   Planted_Fern_3 = "Planted Fern_3",
-  Planted_Fern_3_4 = "Planted Fern_3_4",
   Planted_Fern_4 = "Planted Fern_4",
   Plants_Pots_Back = "Plants_Pots_Back",
   Plants_Pots_Front = "Plants_Pots_Front",
