@@ -25,6 +25,7 @@ export enum EntityNames {
   Doors = "Doors",
   External_Floor = "External_Floor",
   Facebook = "Facebook",
+  Fixed_View_Camera = "Fixed View Camera",
   Floor_Lamp = "Floor_Lamp",
   Floor_Lamp_2 = "Floor_Lamp_2",
   Flower_crop = "Flower crop",
